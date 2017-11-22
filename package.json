@@ -91,7 +91,9 @@
   },
   "devDependencies": {
     "axios": "^0.17.1",
+    "express": "^4.16.2",
     "less": "^2.7.3",
-    "less-loader": "^4.0.5"
+    "less-loader": "^4.0.5",
+    "superagent": "^3.8.1"
   }
 }
